@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/example.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\example.dir\\main.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\examples\\cmake_example\\main.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/main.c",
+  "output": "CMakeFiles/example.dir/main.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\croutine.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\croutine.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/croutine.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/croutine.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\event_groups.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\event_groups.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/event_groups.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/event_groups.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\list.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\list.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/list.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/list.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\queue.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\queue.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/queue.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/queue.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\stream_buffer.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\stream_buffer.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/stream_buffer.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/stream_buffer.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\tasks.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\tasks.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/tasks.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/tasks.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\timers.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\timers.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/timers.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/timers.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -Wconversion -o CMakeFiles\\freertos_kernel.dir\\portable\\MemMang\\heap_4.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\portable\\MemMang\\heap_4.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.c",
+  "output": "FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/portable/MemMang/heap_4.c.obj"
+},
+{
+  "directory": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/portable",
+  "command": "D:\\x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/freertos_kernel_port.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\freertos_kernel_port.dir\\MSVC-MingW\\port.c.obj -c D:\\FreeRTOSv202406.01-LTS\\FreeRTOS-LTS\\FreeRTOS\\FreeRTOS-Kernel\\portable\\MSVC-MingW\\port.c",
+  "file": "D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/portable/MSVC-MingW/port.c",
+  "output": "FreeRTOS-Kernel/portable/CMakeFiles/freertos_kernel_port.dir/MSVC-MingW/port.c.obj"
+}
+]

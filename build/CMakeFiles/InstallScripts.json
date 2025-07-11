@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/cmake_install.cmake",
+		"D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/cmake_install.cmake",
+		"D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/include/cmake_install.cmake",
+		"D:/FreeRTOSv202406.01-LTS/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/build/FreeRTOS-Kernel/portable/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
